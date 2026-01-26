@@ -1,0 +1,21 @@
+System name:
+xbox360
+
+Full system name:
+Microsoft Xbox 360
+
+Supported file extensions:
+. .desktop .iso .ISO .sh .xex .XEX .zar .ZAR
+
+Launch command:
+%STARTDIR%=%EMUDIR% %PRECOMMAND_WINE% %EMULATOR_XENIA-WINDOWS% %ROM%
+
+Alternative launch commands:
+%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTON% %EMULATOR_XENIA-WINDOWS% %ROM%
+%ENABLESHORTCUTS% %EMULATOR_OS-SHELL% %ROM%
+
+Platform (for scraping):
+xbox360
+
+Theme folder:
+xbox360

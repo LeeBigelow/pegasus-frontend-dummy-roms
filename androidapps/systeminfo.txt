@@ -1,0 +1,17 @@
+System name:
+androidapps
+
+Full system name:
+Android Apps
+
+Supported file extensions:
+.7z .7Z .zip .ZIP
+
+Launch command:
+PLACEHOLDER %ROM%
+
+Platform (for scraping):
+android
+
+Theme folder:
+androidapps

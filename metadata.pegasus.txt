@@ -1,0 +1,780 @@
+collection: 3DO Interactive Multiplayer
+shortname: 3do
+file: /home/yargo/tmp/ROMs_ALL_Linux/3do/dummy.bin
+
+collection: Coleco Adam
+shortname: adam
+file: /home/yargo/tmp/ROMs_ALL_Linux/adam/dummy.1dd
+
+collection: Adventure Game Studio Game Engine
+shortname: ags
+file: /home/yargo/tmp/ROMs_ALL_Linux/ags/dummy.desktop
+
+collection: Commodore Amiga
+shortname: amiga
+file: /home/yargo/tmp/ROMs_ALL_Linux/amiga/dummy.adf
+
+collection: Commodore Amiga 1200
+shortname: amiga1200
+file: /home/yargo/tmp/ROMs_ALL_Linux/amiga1200/dummy.adf
+
+collection: Commodore Amiga 600
+shortname: amiga600
+file: /home/yargo/tmp/ROMs_ALL_Linux/amiga600/dummy.adf
+
+collection: Commodore Amiga CD32
+shortname: amigacd32
+file: /home/yargo/tmp/ROMs_ALL_Linux/amigacd32/dummy.adf
+
+collection: Amstrad CPC
+shortname: amstradcpc
+file: /home/yargo/tmp/ROMs_ALL_Linux/amstradcpc/dummy.cdt
+
+collection: Google Android
+shortname: android
+file: /home/yargo/tmp/ROMs_ALL_Linux/android/dummy.7z
+
+collection: Android Apps
+shortname: androidapps
+file: /home/yargo/tmp/ROMs_ALL_Linux/androidapps/dummy.7z
+
+collection: Android Games
+shortname: androidgames
+file: /home/yargo/tmp/ROMs_ALL_Linux/androidgames/dummy.7z
+
+collection: Apple II
+shortname: apple2
+file: /home/yargo/tmp/ROMs_ALL_Linux/apple2/dummy.do
+
+collection: Apple IIGS
+shortname: apple2gs
+file: /home/yargo/tmp/ROMs_ALL_Linux/apple2gs/dummy.2mg
+
+collection: Arcade
+shortname: arcade
+file: /home/yargo/tmp/ROMs_ALL_Linux/arcade/dummy.cmd
+
+collection: Emerson Arcadia 2001
+shortname: arcadia
+file: /home/yargo/tmp/ROMs_ALL_Linux/arcadia/dummy.bin
+
+collection: Acorn Archimedes
+shortname: archimedes
+file: /home/yargo/tmp/ROMs_ALL_Linux/archimedes/dummy.1dd
+
+collection: Arduboy Miniature Game System
+shortname: arduboy
+file: /home/yargo/tmp/ROMs_ALL_Linux/arduboy/dummy.arduboy
+
+collection: Bally Astrocade
+shortname: astrocde
+file: /home/yargo/tmp/ROMs_ALL_Linux/astrocde/dummy.7z
+
+collection: Atari 2600
+shortname: atari2600
+file: /home/yargo/tmp/ROMs_ALL_Linux/atari2600/dummy.a26
+
+collection: Atari 5200
+shortname: atari5200
+file: /home/yargo/tmp/ROMs_ALL_Linux/atari5200/dummy.a52
+
+collection: Atari 7800 ProSystem
+shortname: atari7800
+file: /home/yargo/tmp/ROMs_ALL_Linux/atari7800/dummy.a78
+
+collection: Atari 800
+shortname: atari800
+file: /home/yargo/tmp/ROMs_ALL_Linux/atari800/dummy.a52
+
+collection: Atari Jaguar
+shortname: atarijaguar
+file: /home/yargo/tmp/ROMs_ALL_Linux/atarijaguar/dummy.abs
+
+collection: Atari Jaguar CD
+shortname: atarijaguarcd
+file: /home/yargo/tmp/ROMs_ALL_Linux/atarijaguarcd/dummy.abs
+
+collection: Atari Lynx
+shortname: atarilynx
+file: /home/yargo/tmp/ROMs_ALL_Linux/atarilynx/dummy.lnx
+
+collection: Atari ST
+shortname: atarist
+file: /home/yargo/tmp/ROMs_ALL_Linux/atarist/dummy.st
+
+collection: Atari XE
+shortname: atarixe
+file: /home/yargo/tmp/ROMs_ALL_Linux/atarixe/dummy.a52
+
+collection: Sammy Corporation Atomiswave
+shortname: atomiswave
+file: /home/yargo/tmp/ROMs_ALL_Linux/atomiswave/dummy.bin
+
+collection: Acorn Computers BBC Micro
+shortname: bbcmicro
+file: /home/yargo/tmp/ROMs_ALL_Linux/bbcmicro/dummy.dsd
+
+collection: Commodore 64
+shortname: c64
+file: /home/yargo/tmp/ROMs_ALL_Linux/c64/dummy.bin
+
+collection: Philips CD-i
+shortname: cdimono1
+file: /home/yargo/tmp/ROMs_ALL_Linux/cdimono1/dummy.chd
+
+collection: Commodore CDTV
+shortname: cdtv
+file: /home/yargo/tmp/ROMs_ALL_Linux/cdtv/dummy.adf
+
+collection: ChaiLove Game Engine
+shortname: chailove
+file: /home/yargo/tmp/ROMs_ALL_Linux/chailove/dummy.chai
+
+collection: Fairchild Channel F
+shortname: channelf
+file: /home/yargo/tmp/ROMs_ALL_Linux/channelf/dummy.bin
+
+collection: Tandy Color Computer
+shortname: coco
+file: /home/yargo/tmp/ROMs_ALL_Linux/coco/dummy.cas
+
+collection: Coleco ColecoVision
+shortname: colecovision
+file: /home/yargo/tmp/ROMs_ALL_Linux/colecovision/dummy.bin
+
+collection: Console Arcade Systems
+shortname: consolearcade
+file: /home/yargo/tmp/ROMs_ALL_Linux/consolearcade/dummy.arcadedef
+
+collection: Capcom Play System
+shortname: cps
+file: /home/yargo/tmp/ROMs_ALL_Linux/cps/dummy.7z
+
+collection: Capcom Play System I
+shortname: cps1
+file: /home/yargo/tmp/ROMs_ALL_Linux/cps1/dummy.7z
+
+collection: Capcom Play System II
+shortname: cps2
+file: /home/yargo/tmp/ROMs_ALL_Linux/cps2/dummy.7z
+
+collection: Capcom Play System III
+shortname: cps3
+file: /home/yargo/tmp/ROMs_ALL_Linux/cps3/dummy.7z
+
+collection: VTech CreatiVision
+shortname: crvision
+file: /home/yargo/tmp/ROMs_ALL_Linux/crvision/dummy.bin
+
+collection: Daphne Arcade LaserDisc Emulator
+shortname: daphne
+file: /home/yargo/tmp/ROMs_ALL_Linux/daphne/dummy.daphne
+
+collection: Desktop Applications
+shortname: desktop
+file: /home/yargo/tmp/ROMs_ALL_Linux/desktop/dummy.AppImage
+
+collection: Doom
+shortname: doom
+file: /home/yargo/tmp/ROMs_ALL_Linux/doom/dummy.desktop
+
+collection: DOS (PC)
+shortname: dos
+file: /home/yargo/tmp/ROMs_ALL_Linux/dos/dummy.bat
+
+collection: Dragon Data Dragon 32
+shortname: dragon32
+file: /home/yargo/tmp/ROMs_ALL_Linux/dragon32/dummy.cas
+
+collection: Sega Dreamcast
+shortname: dreamcast
+file: /home/yargo/tmp/ROMs_ALL_Linux/dreamcast/dummy.cdi
+
+collection: EasyRPG Game Engine
+shortname: easyrpg
+file: /home/yargo/tmp/ROMs_ALL_Linux/easyrpg/dummy.easyrpg
+
+collection: Acorn Electron
+shortname: electron
+file: /home/yargo/tmp/ROMs_ALL_Linux/electron/dummy.1dd
+
+collection: Emulators
+shortname: emulators
+file: /home/yargo/tmp/ROMs_ALL_Linux/emulators/dummy.AppImage
+
+collection: Epic Games Store
+shortname: epic
+file: /home/yargo/tmp/ROMs_ALL_Linux/epic/dummy.desktop
+
+collection: Nintendo Family Computer
+shortname: famicom
+file: /home/yargo/tmp/ROMs_ALL_Linux/famicom/dummy.3dsen
+
+collection: FinalBurn Alpha
+shortname: fba
+file: /home/yargo/tmp/ROMs_ALL_Linux/fba/dummy.iso
+
+collection: FinalBurn Neo
+shortname: fbneo
+file: /home/yargo/tmp/ROMs_ALL_Linux/fbneo/dummy.7z
+
+collection: Nintendo Famicom Disk System
+shortname: fds
+file: /home/yargo/tmp/ROMs_ALL_Linux/fds/dummy.nes
+
+collection: Adobe Flash
+shortname: flash
+file: /home/yargo/tmp/ROMs_ALL_Linux/flash/dummy.ruf
+
+collection: Fujitsu FM-7
+shortname: fm7
+file: /home/yargo/tmp/ROMs_ALL_Linux/fm7/dummy.1dd
+
+collection: Fujitsu FM Towns
+shortname: fmtowns
+file: /home/yargo/tmp/ROMs_ALL_Linux/fmtowns/dummy.cdr
+
+collection: Future Pinball
+shortname: fpinball
+file: /home/yargo/tmp/ROMs_ALL_Linux/fpinball/dummy.fpt
+
+collection: Bit Corporation Gamate
+shortname: gamate
+file: /home/yargo/tmp/ROMs_ALL_Linux/gamate/dummy.bin
+
+collection: Nintendo Game and Watch
+shortname: gameandwatch
+file: /home/yargo/tmp/ROMs_ALL_Linux/gameandwatch/dummy.mgw
+
+collection: Tiger Electronics Game.com
+shortname: gamecom
+file: /home/yargo/tmp/ROMs_ALL_Linux/gamecom/dummy.tgc
+
+collection: Sega Game Gear
+shortname: gamegear
+file: /home/yargo/tmp/ROMs_ALL_Linux/gamegear/dummy.68k
+
+collection: Nintendo Game Boy
+shortname: gb
+file: /home/yargo/tmp/ROMs_ALL_Linux/gb/dummy.bs
+
+collection: Nintendo Game Boy Advance
+shortname: gba
+file: /home/yargo/tmp/ROMs_ALL_Linux/gba/dummy.agb
+
+collection: Nintendo Game Boy Color
+shortname: gbc
+file: /home/yargo/tmp/ROMs_ALL_Linux/gbc/dummy.bs
+
+collection: Nintendo GameCube
+shortname: gc
+file: /home/yargo/tmp/ROMs_ALL_Linux/gc/dummy.ciso
+
+collection: Sega Genesis
+shortname: genesis
+file: /home/yargo/tmp/ROMs_ALL_Linux/genesis/dummy.32x
+
+collection: Hartung Game Master
+shortname: gmaster
+file: /home/yargo/tmp/ROMs_ALL_Linux/gmaster/dummy.bin
+
+collection: Amstrad GX4000
+shortname: gx4000
+file: /home/yargo/tmp/ROMs_ALL_Linux/gx4000/dummy.bin
+
+collection: Mattel Electronics Intellivision
+shortname: intellivision
+file: /home/yargo/tmp/ROMs_ALL_Linux/intellivision/dummy.bin
+
+collection: Java 2 Micro Edition (J2ME)
+shortname: j2me
+file: /home/yargo/tmp/ROMs_ALL_Linux/j2me/dummy.jar
+
+collection: Kodi Home Theatre Software
+shortname: kodi
+file: /home/yargo/tmp/ROMs_ALL_Linux/kodi/dummy.desktop
+
+collection: LaserDisc Games
+shortname: laserdisc
+file: /home/yargo/tmp/ROMs_ALL_Linux/laserdisc/dummy.daphne
+
+collection: LCD Handheld Games
+shortname: lcdgames
+file: /home/yargo/tmp/ROMs_ALL_Linux/lcdgames/dummy.mgw
+
+collection: LowRes NX Fantasy Console
+shortname: lowresnx
+file: /home/yargo/tmp/ROMs_ALL_Linux/lowresnx/dummy.nx
+
+collection: Lutris Open Gaming Platform
+shortname: lutris
+file: /home/yargo/tmp/ROMs_ALL_Linux/lutris/dummy.desktop
+
+collection: Lutro Game Engine
+shortname: lutro
+file: /home/yargo/tmp/ROMs_ALL_Linux/lutro/dummy.lua
+
+collection: Apple Macintosh
+shortname: macintosh
+file: /home/yargo/tmp/ROMs_ALL_Linux/macintosh/dummy.dsk
+
+collection: AdvanceMAME
+shortname: mame-advmame
+file: /home/yargo/tmp/ROMs_ALL_Linux/mame-advmame/dummy.7z
+
+collection: Multiple Arcade Machine Emulator
+shortname: mame
+file: /home/yargo/tmp/ROMs_ALL_Linux/mame/dummy.cmd
+
+collection: Sega Mark III
+shortname: mark3
+file: /home/yargo/tmp/ROMs_ALL_Linux/mark3/dummy.68k
+
+collection: Sega Master System
+shortname: mastersystem
+file: /home/yargo/tmp/ROMs_ALL_Linux/mastersystem/dummy.68k
+
+collection: Sega Mega-CD
+shortname: megacd
+file: /home/yargo/tmp/ROMs_ALL_Linux/megacd/dummy.68k
+
+collection: Sega Mega-CD
+shortname: megacdjp
+file: /home/yargo/tmp/ROMs_ALL_Linux/megacdjp/dummy.68k
+
+collection: Sega Mega Drive
+shortname: megadrive
+file: /home/yargo/tmp/ROMs_ALL_Linux/megadrive/dummy.32x
+
+collection: Sega Mega Drive
+shortname: megadrivejp
+file: /home/yargo/tmp/ROMs_ALL_Linux/megadrivejp/dummy.32x
+
+collection: Creatronic Mega Duck
+shortname: megaduck
+file: /home/yargo/tmp/ROMs_ALL_Linux/megaduck/dummy.bin
+
+collection: Multi Emulator Super System
+shortname: mess
+file: /home/yargo/tmp/ROMs_ALL_Linux/mess/dummy.chd
+
+collection: Sega Model 2
+shortname: model2
+file: /home/yargo/tmp/ROMs_ALL_Linux/model2/dummy.7z
+
+collection: Sega Model 3
+shortname: model3
+file: /home/yargo/tmp/ROMs_ALL_Linux/model3/dummy.7z
+
+collection: Thomson MO/TO Series
+shortname: moto
+file: /home/yargo/tmp/ROMs_ALL_Linux/moto/dummy.fd
+
+collection: MSX
+shortname: msx
+file: /home/yargo/tmp/ROMs_ALL_Linux/msx/dummy.cas
+
+collection: MSX1
+shortname: msx1
+file: /home/yargo/tmp/ROMs_ALL_Linux/msx1/dummy.cas
+
+collection: MSX2
+shortname: msx2
+file: /home/yargo/tmp/ROMs_ALL_Linux/msx2/dummy.cas
+
+collection: MSX Turbo R
+shortname: msxturbor
+file: /home/yargo/tmp/ROMs_ALL_Linux/msxturbor/dummy.cas
+
+collection: M.U.G.E.N Game Engine
+shortname: mugen
+file: /home/yargo/tmp/ROMs_ALL_Linux/mugen/dummy.mugen
+
+collection: Othello Multivision
+shortname: multivision
+file: /home/yargo/tmp/ROMs_ALL_Linux/multivision/dummy.bin
+
+collection: Nintendo 3DS
+shortname: n3ds
+file: /home/yargo/tmp/ROMs_ALL_Linux/n3ds/dummy.3ds
+
+collection: Nintendo 64
+shortname: n64
+file: /home/yargo/tmp/ROMs_ALL_Linux/n64/dummy.bin
+
+collection: Nintendo 64DD
+shortname: n64dd
+file: /home/yargo/tmp/ROMs_ALL_Linux/n64dd/dummy.bin
+
+collection: Sega NAOMI
+shortname: naomi
+file: /home/yargo/tmp/ROMs_ALL_Linux/naomi/dummy.bin
+
+collection: Sega NAOMI 2
+shortname: naomi2
+file: /home/yargo/tmp/ROMs_ALL_Linux/naomi2/dummy.bin
+
+collection: Sega NAOMI GD-ROM
+shortname: naomigd
+file: /home/yargo/tmp/ROMs_ALL_Linux/naomigd/dummy.bin
+
+collection: Nintendo DS
+shortname: nds
+file: /home/yargo/tmp/ROMs_ALL_Linux/nds/dummy.app
+
+collection: SNK Neo Geo
+shortname: neogeo
+file: /home/yargo/tmp/ROMs_ALL_Linux/neogeo/dummy.neo
+
+collection: SNK Neo Geo CD
+shortname: neogeocd
+file: /home/yargo/tmp/ROMs_ALL_Linux/neogeocd/dummy.chd
+
+collection: SNK Neo Geo CD
+shortname: neogeocdjp
+file: /home/yargo/tmp/ROMs_ALL_Linux/neogeocdjp/dummy.chd
+
+collection: Nintendo Entertainment System
+shortname: nes
+file: /home/yargo/tmp/ROMs_ALL_Linux/nes/dummy.3dsen
+
+collection: Nokia N-Gage
+shortname: ngage
+file: /home/yargo/tmp/ROMs_ALL_Linux/ngage/dummy.ngage
+
+collection: SNK Neo Geo Pocket
+shortname: ngp
+file: /home/yargo/tmp/ROMs_ALL_Linux/ngp/dummy.ngc
+
+collection: SNK Neo Geo Pocket Color
+shortname: ngpc
+file: /home/yargo/tmp/ROMs_ALL_Linux/ngpc/dummy.ngc
+
+collection: Magnavox Odyssey 2
+shortname: odyssey2
+file: /home/yargo/tmp/ROMs_ALL_Linux/odyssey2/dummy.bin
+
+collection: OpenBOR Game Engine
+shortname: openbor
+file: /home/yargo/tmp/ROMs_ALL_Linux/openbor/dummy.AppImage
+
+collection: Tangerine Computer Systems Oric
+shortname: oric
+file: /home/yargo/tmp/ROMs_ALL_Linux/oric/dummy.dsk
+
+collection: Palm OS
+shortname: palm
+file: /home/yargo/tmp/ROMs_ALL_Linux/palm/dummy.img
+
+collection: IBM PC
+shortname: pc
+file: /home/yargo/tmp/ROMs_ALL_Linux/pc/dummy.bat
+
+collection: NEC PC-8800 Series
+shortname: pc88
+file: /home/yargo/tmp/ROMs_ALL_Linux/pc88/dummy.88d
+
+collection: NEC PC-9800 Series
+shortname: pc98
+file: /home/yargo/tmp/ROMs_ALL_Linux/pc98/dummy.2hd
+
+collection: PC Arcade Systems
+shortname: pcarcade
+file: /home/yargo/tmp/ROMs_ALL_Linux/pcarcade/dummy.AppImage
+
+collection: NEC PC Engine
+shortname: pcengine
+file: /home/yargo/tmp/ROMs_ALL_Linux/pcengine/dummy.ccd
+
+collection: NEC PC Engine CD
+shortname: pcenginecd
+file: /home/yargo/tmp/ROMs_ALL_Linux/pcenginecd/dummy.ccd
+
+collection: NEC PC-FX
+shortname: pcfx
+file: /home/yargo/tmp/ROMs_ALL_Linux/pcfx/dummy.ccd
+
+collection: PICO-8 Fantasy Console
+shortname: pico8
+file: /home/yargo/tmp/ROMs_ALL_Linux/pico8/dummy.p8
+
+collection: Commodore Plus/4
+shortname: plus4
+file: /home/yargo/tmp/ROMs_ALL_Linux/plus4/dummy.bin
+
+collection: Nintendo Pokémon Mini
+shortname: pokemini
+file: /home/yargo/tmp/ROMs_ALL_Linux/pokemini/dummy.min
+
+collection: Ports
+shortname: ports
+file: /home/yargo/tmp/ROMs_ALL_Linux/ports/dummy.AppImage
+
+collection: Sony PlayStation 2
+shortname: ps2
+file: /home/yargo/tmp/ROMs_ALL_Linux/ps2/dummy.arcadedef
+
+collection: Sony PlayStation 3
+shortname: ps3
+file: /home/yargo/tmp/ROMs_ALL_Linux/ps3/dummy.desktop
+
+collection: Sony PlayStation 4
+shortname: ps4
+file: /home/yargo/tmp/ROMs_ALL_Linux/ps4/dummy.bin
+
+collection: Sony PlayStation Portable
+shortname: psp
+file: /home/yargo/tmp/ROMs_ALL_Linux/psp/dummy.chd
+
+collection: Sony PlayStation Vita
+shortname: psvita
+file: /home/yargo/tmp/ROMs_ALL_Linux/psvita/dummy.psvita
+
+collection: Sony PlayStation
+shortname: psx
+file: /home/yargo/tmp/ROMs_ALL_Linux/psx/dummy.bin
+
+collection: Casio PV-1000
+shortname: pv1000
+file: /home/yargo/tmp/ROMs_ALL_Linux/pv1000/dummy.bin
+
+collection: Quake
+shortname: quake
+file: /home/yargo/tmp/ROMs_ALL_Linux/quake/dummy.desktop
+
+collection: MGT SAM Coupé
+shortname: samcoupe
+file: /home/yargo/tmp/ROMs_ALL_Linux/samcoupe/dummy.dsk
+
+collection: Nintendo Satellaview
+shortname: satellaview
+file: /home/yargo/tmp/ROMs_ALL_Linux/satellaview/dummy.bml
+
+collection: Sega Saturn
+shortname: saturn
+file: /home/yargo/tmp/ROMs_ALL_Linux/saturn/dummy.bin
+
+collection: Sega Saturn
+shortname: saturnjp
+file: /home/yargo/tmp/ROMs_ALL_Linux/saturnjp/dummy.bin
+
+collection: ScummVM Game Engine
+shortname: scummvm
+file: /home/yargo/tmp/ROMs_ALL_Linux/scummvm/dummy.scummvm
+
+collection: Epoch Super Cassette Vision
+shortname: scv
+file: /home/yargo/tmp/ROMs_ALL_Linux/scv/dummy.0
+
+collection: Sega Mega Drive 32X
+shortname: sega32x
+file: /home/yargo/tmp/ROMs_ALL_Linux/sega32x/dummy.32x
+
+collection: Sega Super 32X
+shortname: sega32xjp
+file: /home/yargo/tmp/ROMs_ALL_Linux/sega32xjp/dummy.32x
+
+collection: Sega Genesis 32X
+shortname: sega32xna
+file: /home/yargo/tmp/ROMs_ALL_Linux/sega32xna/dummy.32x
+
+collection: Sega CD
+shortname: segacd
+file: /home/yargo/tmp/ROMs_ALL_Linux/segacd/dummy.68k
+
+collection: Nintendo SFC (Super Famicom)
+shortname: sfc
+file: /home/yargo/tmp/ROMs_ALL_Linux/sfc/dummy.bin
+
+collection: Sega SG-1000
+shortname: sg-1000
+file: /home/yargo/tmp/ROMs_ALL_Linux/sg-1000/dummy.68k
+
+collection: Nintendo Super Game Boy
+shortname: sgb
+file: /home/yargo/tmp/ROMs_ALL_Linux/sgb/dummy.gb
+
+collection: Nintendo SNES (Super Nintendo)
+shortname: snes
+file: /home/yargo/tmp/ROMs_ALL_Linux/snes/dummy.bin
+
+collection: Nintendo SNES (Super Nintendo)
+shortname: snesna
+file: /home/yargo/tmp/ROMs_ALL_Linux/snesna/dummy.bin
+
+collection: Solarus Game Engine
+shortname: solarus
+file: /home/yargo/tmp/ROMs_ALL_Linux/solarus/dummy.solarus
+
+collection: Spectravideo
+shortname: spectravideo
+file: /home/yargo/tmp/ROMs_ALL_Linux/spectravideo/dummy.cas
+
+collection: Valve Steam
+shortname: steam
+file: /home/yargo/tmp/ROMs_ALL_Linux/steam/dummy.desktop
+
+collection: Sega Titan Video Game System
+shortname: stv
+file: /home/yargo/tmp/ROMs_ALL_Linux/stv/dummy.7z
+
+collection: Bandai SuFami Turbo
+shortname: sufami
+file: /home/yargo/tmp/ROMs_ALL_Linux/sufami/dummy.bml
+
+collection: NEC SuperGrafx
+shortname: supergrafx
+file: /home/yargo/tmp/ROMs_ALL_Linux/supergrafx/dummy.ccd
+
+collection: Watara Supervision
+shortname: supervision
+file: /home/yargo/tmp/ROMs_ALL_Linux/supervision/dummy.bin
+
+collection: Funtech Super A'Can
+shortname: supracan
+file: /home/yargo/tmp/ROMs_ALL_Linux/supracan/dummy.bin
+
+collection: Nintendo Switch
+shortname: switch
+file: /home/yargo/tmp/ROMs_ALL_Linux/switch/dummy.nca
+
+collection: Symbian
+shortname: symbian
+file: /home/yargo/tmp/ROMs_ALL_Linux/symbian/dummy.sis
+
+collection: Tano Dragon
+shortname: tanodragon
+file: /home/yargo/tmp/ROMs_ALL_Linux/tanodragon/dummy.cas
+
+collection: NEC TurboGrafx-CD
+shortname: tg-cd
+file: /home/yargo/tmp/ROMs_ALL_Linux/tg-cd/dummy.ccd
+
+collection: NEC TurboGrafx-16
+shortname: tg16
+file: /home/yargo/tmp/ROMs_ALL_Linux/tg16/dummy.ccd
+
+collection: Texas Instruments TI-99
+shortname: ti99
+file: /home/yargo/tmp/ROMs_ALL_Linux/ti99/dummy.rpk
+
+collection: TIC-80 Fantasy Computer
+shortname: tic80
+file: /home/yargo/tmp/ROMs_ALL_Linux/tic80/dummy.tic
+
+collection: Thomson TO8
+shortname: to8
+file: /home/yargo/tmp/ROMs_ALL_Linux/to8/dummy.fd
+
+collection: Namco-Sega-Nintendo Triforce
+shortname: triforce
+file: /home/yargo/tmp/ROMs_ALL_Linux/triforce/dummy.ciso
+
+collection: Tandy TRS-80
+shortname: trs-80
+file: /home/yargo/tmp/ROMs_ALL_Linux/trs-80/dummy.cmd
+
+collection: Taito Type X
+shortname: type-x
+file: /home/yargo/tmp/ROMs_ALL_Linux/type-x/dummy.AppImage
+
+collection: Uzebox Open Source Console
+shortname: uzebox
+file: /home/yargo/tmp/ROMs_ALL_Linux/uzebox/dummy.uze
+
+collection: GCE Vectrex
+shortname: vectrex
+file: /home/yargo/tmp/ROMs_ALL_Linux/vectrex/dummy.bin
+
+collection: Commodore VIC-20
+shortname: vic20
+file: /home/yargo/tmp/ROMs_ALL_Linux/vic20/dummy.bin
+
+collection: Philips Videopac G7000
+shortname: videopac
+file: /home/yargo/tmp/ROMs_ALL_Linux/videopac/dummy.bin
+
+collection: Vircon32 Virtual Console
+shortname: vircon32
+file: /home/yargo/tmp/ROMs_ALL_Linux/vircon32/dummy.v32
+
+collection: Nintendo Virtual Boy
+shortname: virtualboy
+file: /home/yargo/tmp/ROMs_ALL_Linux/virtualboy/dummy.bin
+
+collection: Visual Pinball
+shortname: vpinball
+file: /home/yargo/tmp/ROMs_ALL_Linux/vpinball/dummy.vpt
+
+collection: VTech V.Smile
+shortname: vsmile
+file: /home/yargo/tmp/ROMs_ALL_Linux/vsmile/dummy.bin
+
+collection: WASM-4 Fantasy Console
+shortname: wasm4
+file: /home/yargo/tmp/ROMs_ALL_Linux/wasm4/dummy.wasm
+
+collection: Nintendo Wii
+shortname: wii
+file: /home/yargo/tmp/ROMs_ALL_Linux/wii/dummy.ciso
+
+collection: Nintendo Wii U
+shortname: wiiu
+file: /home/yargo/tmp/ROMs_ALL_Linux/wiiu/dummy.elf
+
+collection: Microsoft Windows
+shortname: windows
+file: /home/yargo/tmp/ROMs_ALL_Linux/windows/dummy.AppImage
+
+collection: Microsoft Windows 3.x
+shortname: windows3x
+file: /home/yargo/tmp/ROMs_ALL_Linux/windows3x/dummy.AppImage
+
+collection: Microsoft Windows 9x
+shortname: windows9x
+file: /home/yargo/tmp/ROMs_ALL_Linux/windows9x/dummy.AppImage
+
+collection: Bandai WonderSwan
+shortname: wonderswan
+file: /home/yargo/tmp/ROMs_ALL_Linux/wonderswan/dummy.pc2
+
+collection: Bandai WonderSwan Color
+shortname: wonderswancolor
+file: /home/yargo/tmp/ROMs_ALL_Linux/wonderswancolor/dummy.pc2
+
+collection: Sharp X1
+shortname: x1
+file: /home/yargo/tmp/ROMs_ALL_Linux/x1/dummy.2d
+
+collection: Sharp X68000
+shortname: x68000
+file: /home/yargo/tmp/ROMs_ALL_Linux/x68000/dummy.2hd
+
+collection: Microsoft Xbox
+shortname: xbox
+file: /home/yargo/tmp/ROMs_ALL_Linux/xbox/dummy.iso
+
+collection: Microsoft Xbox 360
+shortname: xbox360
+file: /home/yargo/tmp/ROMs_ALL_Linux/xbox360/dummy.iso
+
+collection: Microsoft Xbox One
+shortname: xboxone
+file: /home/yargo/tmp/ROMs_ALL_Linux/xboxone/dummy.7z
+
+collection: Infocom Z-machine
+shortname: zmachine
+file: /home/yargo/tmp/ROMs_ALL_Linux/zmachine/dummy.dat
+
+collection: Sinclair ZX81
+shortname: zx81
+file: /home/yargo/tmp/ROMs_ALL_Linux/zx81/dummy.p
+
+collection: Sinclair ZX Spectrum Next
+shortname: zxnext
+file: /home/yargo/tmp/ROMs_ALL_Linux/zxnext/dummy.nex
+
+collection: Sinclair ZX Spectrum
+shortname: zxspectrum
+file: /home/yargo/tmp/ROMs_ALL_Linux/zxspectrum/dummy.dsk
+

@@ -1,0 +1,5 @@
+collection: 3DO Interactive Multiplayer
+shortname: 3do
+game: dummy
+file: dummy.bin
+
