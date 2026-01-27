@@ -1,780 +1,780 @@
 collection: 3DO Interactive Multiplayer
 shortname: 3do
-file: 3do/dummy.bin
+file: dummy.txt
 
 collection: Coleco Adam
 shortname: adam
-file: adam/dummy.1dd
+file: dummy.txt
 
 collection: Adventure Game Studio Game Engine
 shortname: ags
-file: ags/dummy.desktop
+file: dummy.txt
 
 collection: Commodore Amiga
 shortname: amiga
-file: amiga/dummy.adf
+file: dummy.txt
 
 collection: Commodore Amiga 1200
 shortname: amiga1200
-file: amiga1200/dummy.adf
+file: dummy.txt
 
 collection: Commodore Amiga 600
 shortname: amiga600
-file: amiga600/dummy.adf
+file: dummy.txt
 
 collection: Commodore Amiga CD32
 shortname: amigacd32
-file: amigacd32/dummy.adf
+file: dummy.txt
 
 collection: Amstrad CPC
 shortname: amstradcpc
-file: amstradcpc/dummy.cdt
+file: dummy.txt
 
 collection: Google Android
 shortname: android
-file: android/dummy.7z
+file: dummy.txt
 
 collection: Android Apps
 shortname: androidapps
-file: androidapps/dummy.7z
+file: dummy.txt
 
 collection: Android Games
 shortname: androidgames
-file: androidgames/dummy.7z
+file: dummy.txt
 
 collection: Apple II
 shortname: apple2
-file: apple2/dummy.do
+file: dummy.txt
 
 collection: Apple IIGS
 shortname: apple2gs
-file: apple2gs/dummy.2mg
+file: dummy.txt
 
 collection: Arcade
 shortname: arcade
-file: arcade/dummy.cmd
+file: dummy.txt
 
 collection: Emerson Arcadia 2001
 shortname: arcadia
-file: arcadia/dummy.bin
+file: dummy.txt
 
 collection: Acorn Archimedes
 shortname: archimedes
-file: archimedes/dummy.1dd
+file: dummy.txt
 
 collection: Arduboy Miniature Game System
 shortname: arduboy
-file: arduboy/dummy.arduboy
+file: dummy.txt
 
 collection: Bally Astrocade
 shortname: astrocde
-file: astrocde/dummy.7z
+file: dummy.txt
 
 collection: Atari 2600
 shortname: atari2600
-file: atari2600/dummy.a26
+file: dummy.txt
 
 collection: Atari 5200
 shortname: atari5200
-file: atari5200/dummy.a52
+file: dummy.txt
 
 collection: Atari 7800 ProSystem
 shortname: atari7800
-file: atari7800/dummy.a78
+file: dummy.txt
 
 collection: Atari 800
 shortname: atari800
-file: atari800/dummy.a52
+file: dummy.txt
 
 collection: Atari Jaguar
 shortname: atarijaguar
-file: atarijaguar/dummy.abs
+file: dummy.txt
 
 collection: Atari Jaguar CD
 shortname: atarijaguarcd
-file: atarijaguarcd/dummy.abs
+file: dummy.txt
 
 collection: Atari Lynx
 shortname: atarilynx
-file: atarilynx/dummy.lnx
+file: dummy.txt
 
 collection: Atari ST
 shortname: atarist
-file: atarist/dummy.st
+file: dummy.txt
 
 collection: Atari XE
 shortname: atarixe
-file: atarixe/dummy.a52
+file: dummy.txt
 
 collection: Sammy Corporation Atomiswave
 shortname: atomiswave
-file: atomiswave/dummy.bin
+file: dummy.txt
 
 collection: Acorn Computers BBC Micro
 shortname: bbcmicro
-file: bbcmicro/dummy.dsd
+file: dummy.txt
 
 collection: Commodore 64
 shortname: c64
-file: c64/dummy.bin
+file: dummy.txt
 
 collection: Philips CD-i
 shortname: cdimono1
-file: cdimono1/dummy.chd
+file: dummy.txt
 
 collection: Commodore CDTV
 shortname: cdtv
-file: cdtv/dummy.adf
+file: dummy.txt
 
 collection: ChaiLove Game Engine
 shortname: chailove
-file: chailove/dummy.chai
+file: dummy.txt
 
 collection: Fairchild Channel F
 shortname: channelf
-file: channelf/dummy.bin
+file: dummy.txt
 
 collection: Tandy Color Computer
 shortname: coco
-file: coco/dummy.cas
+file: dummy.txt
 
 collection: Coleco ColecoVision
 shortname: colecovision
-file: colecovision/dummy.bin
+file: dummy.txt
 
 collection: Console Arcade Systems
 shortname: consolearcade
-file: consolearcade/dummy.arcadedef
+file: dummy.txt
 
 collection: Capcom Play System
 shortname: cps
-file: cps/dummy.7z
+file: dummy.txt
 
 collection: Capcom Play System I
 shortname: cps1
-file: cps1/dummy.7z
+file: dummy.txt
 
 collection: Capcom Play System II
 shortname: cps2
-file: cps2/dummy.7z
+file: dummy.txt
 
 collection: Capcom Play System III
 shortname: cps3
-file: cps3/dummy.7z
+file: dummy.txt
 
 collection: VTech CreatiVision
 shortname: crvision
-file: crvision/dummy.bin
+file: dummy.txt
 
 collection: Daphne Arcade LaserDisc Emulator
 shortname: daphne
-file: daphne/dummy.daphne
+file: dummy.txt
 
 collection: Desktop Applications
 shortname: desktop
-file: desktop/dummy.AppImage
+file: dummy.txt
 
 collection: Doom
 shortname: doom
-file: doom/dummy.desktop
+file: dummy.txt
 
 collection: DOS (PC)
 shortname: dos
-file: dos/dummy.bat
+file: dummy.txt
 
 collection: Dragon Data Dragon 32
 shortname: dragon32
-file: dragon32/dummy.cas
+file: dummy.txt
 
 collection: Sega Dreamcast
 shortname: dreamcast
-file: dreamcast/dummy.cdi
+file: dummy.txt
 
 collection: EasyRPG Game Engine
 shortname: easyrpg
-file: easyrpg/dummy.easyrpg
+file: dummy.txt
 
 collection: Acorn Electron
 shortname: electron
-file: electron/dummy.1dd
+file: dummy.txt
 
 collection: Emulators
 shortname: emulators
-file: emulators/dummy.AppImage
+file: dummy.txt
 
 collection: Epic Games Store
 shortname: epic
-file: epic/dummy.desktop
+file: dummy.txt
 
 collection: Nintendo Family Computer
 shortname: famicom
-file: famicom/dummy.3dsen
+file: dummy.txt
 
 collection: FinalBurn Alpha
 shortname: fba
-file: fba/dummy.iso
+file: dummy.txt
 
 collection: FinalBurn Neo
 shortname: fbneo
-file: fbneo/dummy.7z
+file: dummy.txt
 
 collection: Nintendo Famicom Disk System
 shortname: fds
-file: fds/dummy.nes
+file: dummy.txt
 
 collection: Adobe Flash
 shortname: flash
-file: flash/dummy.ruf
+file: dummy.txt
 
 collection: Fujitsu FM-7
 shortname: fm7
-file: fm7/dummy.1dd
+file: dummy.txt
 
 collection: Fujitsu FM Towns
 shortname: fmtowns
-file: fmtowns/dummy.cdr
+file: dummy.txt
 
 collection: Future Pinball
 shortname: fpinball
-file: fpinball/dummy.fpt
+file: dummy.txt
 
 collection: Bit Corporation Gamate
 shortname: gamate
-file: gamate/dummy.bin
+file: dummy.txt
 
 collection: Nintendo Game and Watch
 shortname: gameandwatch
-file: gameandwatch/dummy.mgw
+file: dummy.txt
 
 collection: Tiger Electronics Game.com
 shortname: gamecom
-file: gamecom/dummy.tgc
+file: dummy.txt
 
 collection: Sega Game Gear
 shortname: gamegear
-file: gamegear/dummy.68k
+file: dummy.txt
 
 collection: Nintendo Game Boy
 shortname: gb
-file: gb/dummy.bs
+file: dummy.txt
 
 collection: Nintendo Game Boy Advance
 shortname: gba
-file: gba/dummy.agb
+file: dummy.txt
 
 collection: Nintendo Game Boy Color
 shortname: gbc
-file: gbc/dummy.bs
+file: dummy.txt
 
 collection: Nintendo GameCube
 shortname: gc
-file: gc/dummy.ciso
+file: dummy.txt
 
 collection: Sega Genesis
 shortname: genesis
-file: genesis/dummy.32x
+file: dummy.txt
 
 collection: Hartung Game Master
 shortname: gmaster
-file: gmaster/dummy.bin
+file: dummy.txt
 
 collection: Amstrad GX4000
 shortname: gx4000
-file: gx4000/dummy.bin
+file: dummy.txt
 
 collection: Mattel Electronics Intellivision
 shortname: intellivision
-file: intellivision/dummy.bin
+file: dummy.txt
 
 collection: Java 2 Micro Edition (J2ME)
 shortname: j2me
-file: j2me/dummy.jar
+file: dummy.txt
 
 collection: Kodi Home Theatre Software
 shortname: kodi
-file: kodi/dummy.desktop
+file: dummy.txt
 
 collection: LaserDisc Games
 shortname: laserdisc
-file: laserdisc/dummy.daphne
+file: dummy.txt
 
 collection: LCD Handheld Games
 shortname: lcdgames
-file: lcdgames/dummy.mgw
+file: dummy.txt
 
 collection: LowRes NX Fantasy Console
 shortname: lowresnx
-file: lowresnx/dummy.nx
+file: dummy.txt
 
 collection: Lutris Open Gaming Platform
 shortname: lutris
-file: lutris/dummy.desktop
+file: dummy.txt
 
 collection: Lutro Game Engine
 shortname: lutro
-file: lutro/dummy.lua
+file: dummy.txt
 
 collection: Apple Macintosh
 shortname: macintosh
-file: macintosh/dummy.dsk
+file: dummy.txt
 
 collection: AdvanceMAME
 shortname: mame-advmame
-file: mame-advmame/dummy.7z
+file: dummy.txt
 
 collection: Multiple Arcade Machine Emulator
 shortname: mame
-file: mame/dummy.cmd
+file: dummy.txt
 
 collection: Sega Mark III
 shortname: mark3
-file: mark3/dummy.68k
+file: dummy.txt
 
 collection: Sega Master System
 shortname: mastersystem
-file: mastersystem/dummy.68k
+file: dummy.txt
 
 collection: Sega Mega-CD
 shortname: megacd
-file: megacd/dummy.68k
+file: dummy.txt
 
 collection: Sega Mega-CD
 shortname: megacdjp
-file: megacdjp/dummy.68k
+file: dummy.txt
 
 collection: Sega Mega Drive
 shortname: megadrive
-file: megadrive/dummy.32x
+file: dummy.txt
 
 collection: Sega Mega Drive
 shortname: megadrivejp
-file: megadrivejp/dummy.32x
+file: dummy.txt
 
 collection: Creatronic Mega Duck
 shortname: megaduck
-file: megaduck/dummy.bin
+file: dummy.txt
 
 collection: Multi Emulator Super System
 shortname: mess
-file: mess/dummy.chd
+file: dummy.txt
 
 collection: Sega Model 2
 shortname: model2
-file: model2/dummy.7z
+file: dummy.txt
 
 collection: Sega Model 3
 shortname: model3
-file: model3/dummy.7z
+file: dummy.txt
 
 collection: Thomson MO/TO Series
 shortname: moto
-file: moto/dummy.fd
+file: dummy.txt
 
 collection: MSX
 shortname: msx
-file: msx/dummy.cas
+file: dummy.txt
 
 collection: MSX1
 shortname: msx1
-file: msx1/dummy.cas
+file: dummy.txt
 
 collection: MSX2
 shortname: msx2
-file: msx2/dummy.cas
+file: dummy.txt
 
 collection: MSX Turbo R
 shortname: msxturbor
-file: msxturbor/dummy.cas
+file: dummy.txt
 
 collection: M.U.G.E.N Game Engine
 shortname: mugen
-file: mugen/dummy.mugen
+file: dummy.txt
 
 collection: Othello Multivision
 shortname: multivision
-file: multivision/dummy.bin
+file: dummy.txt
 
 collection: Nintendo 3DS
 shortname: n3ds
-file: n3ds/dummy.3ds
+file: dummy.txt
 
 collection: Nintendo 64
 shortname: n64
-file: n64/dummy.bin
+file: dummy.txt
 
 collection: Nintendo 64DD
 shortname: n64dd
-file: n64dd/dummy.bin
+file: dummy.txt
 
 collection: Sega NAOMI
 shortname: naomi
-file: naomi/dummy.bin
+file: dummy.txt
 
 collection: Sega NAOMI 2
 shortname: naomi2
-file: naomi2/dummy.bin
+file: dummy.txt
 
 collection: Sega NAOMI GD-ROM
 shortname: naomigd
-file: naomigd/dummy.bin
+file: dummy.txt
 
 collection: Nintendo DS
 shortname: nds
-file: nds/dummy.app
+file: dummy.txt
 
 collection: SNK Neo Geo
 shortname: neogeo
-file: neogeo/dummy.neo
+file: dummy.txt
 
 collection: SNK Neo Geo CD
 shortname: neogeocd
-file: neogeocd/dummy.chd
+file: dummy.txt
 
 collection: SNK Neo Geo CD
 shortname: neogeocdjp
-file: neogeocdjp/dummy.chd
+file: dummy.txt
 
 collection: Nintendo Entertainment System
 shortname: nes
-file: nes/dummy.3dsen
+file: dummy.txt
 
 collection: Nokia N-Gage
 shortname: ngage
-file: ngage/dummy.ngage
+file: dummy.txt
 
 collection: SNK Neo Geo Pocket
 shortname: ngp
-file: ngp/dummy.ngc
+file: dummy.txt
 
 collection: SNK Neo Geo Pocket Color
 shortname: ngpc
-file: ngpc/dummy.ngc
+file: dummy.txt
 
 collection: Magnavox Odyssey 2
 shortname: odyssey2
-file: odyssey2/dummy.bin
+file: dummy.txt
 
 collection: OpenBOR Game Engine
 shortname: openbor
-file: openbor/dummy.AppImage
+file: dummy.txt
 
 collection: Tangerine Computer Systems Oric
 shortname: oric
-file: oric/dummy.dsk
+file: dummy.txt
 
 collection: Palm OS
 shortname: palm
-file: palm/dummy.img
+file: dummy.txt
 
 collection: IBM PC
 shortname: pc
-file: pc/dummy.bat
+file: dummy.txt
 
 collection: NEC PC-8800 Series
 shortname: pc88
-file: pc88/dummy.88d
+file: dummy.txt
 
 collection: NEC PC-9800 Series
 shortname: pc98
-file: pc98/dummy.2hd
+file: dummy.txt
 
 collection: PC Arcade Systems
 shortname: pcarcade
-file: pcarcade/dummy.AppImage
+file: dummy.txt
 
 collection: NEC PC Engine
 shortname: pcengine
-file: pcengine/dummy.ccd
+file: dummy.txt
 
 collection: NEC PC Engine CD
 shortname: pcenginecd
-file: pcenginecd/dummy.ccd
+file: dummy.txt
 
 collection: NEC PC-FX
 shortname: pcfx
-file: pcfx/dummy.ccd
+file: dummy.txt
 
 collection: PICO-8 Fantasy Console
 shortname: pico8
-file: pico8/dummy.p8
+file: dummy.txt
 
 collection: Commodore Plus/4
 shortname: plus4
-file: plus4/dummy.bin
+file: dummy.txt
 
 collection: Nintendo Pokémon Mini
 shortname: pokemini
-file: pokemini/dummy.min
+file: dummy.txt
 
 collection: Ports
 shortname: ports
-file: ports/dummy.AppImage
+file: dummy.txt
 
 collection: Sony PlayStation 2
 shortname: ps2
-file: ps2/dummy.arcadedef
+file: dummy.txt
 
 collection: Sony PlayStation 3
 shortname: ps3
-file: ps3/dummy.desktop
+file: dummy.txt
 
 collection: Sony PlayStation 4
 shortname: ps4
-file: ps4/dummy.bin
+file: dummy.txt
 
 collection: Sony PlayStation Portable
 shortname: psp
-file: psp/dummy.chd
+file: dummy.txt
 
 collection: Sony PlayStation Vita
 shortname: psvita
-file: psvita/dummy.psvita
+file: dummy.txt
 
 collection: Sony PlayStation
 shortname: psx
-file: psx/dummy.bin
+file: dummy.txt
 
 collection: Casio PV-1000
 shortname: pv1000
-file: pv1000/dummy.bin
+file: dummy.txt
 
 collection: Quake
 shortname: quake
-file: quake/dummy.desktop
+file: dummy.txt
 
 collection: MGT SAM Coupé
 shortname: samcoupe
-file: samcoupe/dummy.dsk
+file: dummy.txt
 
 collection: Nintendo Satellaview
 shortname: satellaview
-file: satellaview/dummy.bml
+file: dummy.txt
 
 collection: Sega Saturn
 shortname: saturn
-file: saturn/dummy.bin
+file: dummy.txt
 
 collection: Sega Saturn
 shortname: saturnjp
-file: saturnjp/dummy.bin
+file: dummy.txt
 
 collection: ScummVM Game Engine
 shortname: scummvm
-file: scummvm/dummy.scummvm
+file: dummy.txt
 
 collection: Epoch Super Cassette Vision
 shortname: scv
-file: scv/dummy.0
+file: dummy.txt
 
 collection: Sega Mega Drive 32X
 shortname: sega32x
-file: sega32x/dummy.32x
+file: dummy.txt
 
 collection: Sega Super 32X
 shortname: sega32xjp
-file: sega32xjp/dummy.32x
+file: dummy.txt
 
 collection: Sega Genesis 32X
 shortname: sega32xna
-file: sega32xna/dummy.32x
+file: dummy.txt
 
 collection: Sega CD
 shortname: segacd
-file: segacd/dummy.68k
+file: dummy.txt
 
 collection: Nintendo SFC (Super Famicom)
 shortname: sfc
-file: sfc/dummy.bin
+file: dummy.txt
 
 collection: Sega SG-1000
 shortname: sg-1000
-file: sg-1000/dummy.68k
+file: dummy.txt
 
 collection: Nintendo Super Game Boy
 shortname: sgb
-file: sgb/dummy.gb
+file: dummy.txt
 
 collection: Nintendo SNES (Super Nintendo)
 shortname: snes
-file: snes/dummy.bin
+file: dummy.txt
 
 collection: Nintendo SNES (Super Nintendo)
 shortname: snesna
-file: snesna/dummy.bin
+file: dummy.txt
 
 collection: Solarus Game Engine
 shortname: solarus
-file: solarus/dummy.solarus
+file: dummy.txt
 
 collection: Spectravideo
 shortname: spectravideo
-file: spectravideo/dummy.cas
+file: dummy.txt
 
 collection: Valve Steam
 shortname: steam
-file: steam/dummy.desktop
+file: dummy.txt
 
 collection: Sega Titan Video Game System
 shortname: stv
-file: stv/dummy.7z
+file: dummy.txt
 
 collection: Bandai SuFami Turbo
 shortname: sufami
-file: sufami/dummy.bml
+file: dummy.txt
 
 collection: NEC SuperGrafx
 shortname: supergrafx
-file: supergrafx/dummy.ccd
+file: dummy.txt
 
 collection: Watara Supervision
 shortname: supervision
-file: supervision/dummy.bin
+file: dummy.txt
 
 collection: Funtech Super A'Can
 shortname: supracan
-file: supracan/dummy.bin
+file: dummy.txt
 
 collection: Nintendo Switch
 shortname: switch
-file: switch/dummy.nca
+file: dummy.txt
 
 collection: Symbian
 shortname: symbian
-file: symbian/dummy.sis
+file: dummy.txt
 
 collection: Tano Dragon
 shortname: tanodragon
-file: tanodragon/dummy.cas
+file: dummy.txt
 
 collection: NEC TurboGrafx-CD
 shortname: tg-cd
-file: tg-cd/dummy.ccd
+file: dummy.txt
 
 collection: NEC TurboGrafx-16
 shortname: tg16
-file: tg16/dummy.ccd
+file: dummy.txt
 
 collection: Texas Instruments TI-99
 shortname: ti99
-file: ti99/dummy.rpk
+file: dummy.txt
 
 collection: TIC-80 Fantasy Computer
 shortname: tic80
-file: tic80/dummy.tic
+file: dummy.txt
 
 collection: Thomson TO8
 shortname: to8
-file: to8/dummy.fd
+file: dummy.txt
 
 collection: Namco-Sega-Nintendo Triforce
 shortname: triforce
-file: triforce/dummy.ciso
+file: dummy.txt
 
 collection: Tandy TRS-80
 shortname: trs-80
-file: trs-80/dummy.cmd
+file: dummy.txt
 
 collection: Taito Type X
 shortname: type-x
-file: type-x/dummy.AppImage
+file: dummy.txt
 
 collection: Uzebox Open Source Console
 shortname: uzebox
-file: uzebox/dummy.uze
+file: dummy.txt
 
 collection: GCE Vectrex
 shortname: vectrex
-file: vectrex/dummy.bin
+file: dummy.txt
 
 collection: Commodore VIC-20
 shortname: vic20
-file: vic20/dummy.bin
+file: dummy.txt
 
 collection: Philips Videopac G7000
 shortname: videopac
-file: videopac/dummy.bin
+file: dummy.txt
 
 collection: Vircon32 Virtual Console
 shortname: vircon32
-file: vircon32/dummy.v32
+file: dummy.txt
 
 collection: Nintendo Virtual Boy
 shortname: virtualboy
-file: virtualboy/dummy.bin
+file: dummy.txt
 
 collection: Visual Pinball
 shortname: vpinball
-file: vpinball/dummy.vpt
+file: dummy.txt
 
 collection: VTech V.Smile
 shortname: vsmile
-file: vsmile/dummy.bin
+file: dummy.txt
 
 collection: WASM-4 Fantasy Console
 shortname: wasm4
-file: wasm4/dummy.wasm
+file: dummy.txt
 
 collection: Nintendo Wii
 shortname: wii
-file: wii/dummy.ciso
+file: dummy.txt
 
 collection: Nintendo Wii U
 shortname: wiiu
-file: wiiu/dummy.elf
+file: dummy.txt
 
 collection: Microsoft Windows
 shortname: windows
-file: windows/dummy.AppImage
+file: dummy.txt
 
 collection: Microsoft Windows 3.x
 shortname: windows3x
-file: windows3x/dummy.AppImage
+file: dummy.txt
 
 collection: Microsoft Windows 9x
 shortname: windows9x
-file: windows9x/dummy.AppImage
+file: dummy.txt
 
 collection: Bandai WonderSwan
 shortname: wonderswan
-file: wonderswan/dummy.pc2
+file: dummy.txt
 
 collection: Bandai WonderSwan Color
 shortname: wonderswancolor
-file: wonderswancolor/dummy.pc2
+file: dummy.txt
 
 collection: Sharp X1
 shortname: x1
-file: x1/dummy.2d
+file: dummy.txt
 
 collection: Sharp X68000
 shortname: x68000
-file: x68000/dummy.2hd
+file: dummy.txt
 
 collection: Microsoft Xbox
 shortname: xbox
-file: xbox/dummy.iso
+file: dummy.txt
 
 collection: Microsoft Xbox 360
 shortname: xbox360
-file: xbox360/dummy.iso
+file: dummy.txt
 
 collection: Microsoft Xbox One
 shortname: xboxone
-file: xboxone/dummy.7z
+file: dummy.txt
 
 collection: Infocom Z-machine
 shortname: zmachine
-file: zmachine/dummy.dat
+file: dummy.txt
 
 collection: Sinclair ZX81
 shortname: zx81
-file: zx81/dummy.p
+file: dummy.txt
 
 collection: Sinclair ZX Spectrum Next
 shortname: zxnext
-file: zxnext/dummy.nex
+file: dummy.txt
 
 collection: Sinclair ZX Spectrum
 shortname: zxspectrum
-file: zxspectrum/dummy.dsk
+file: dummy.txt
 
