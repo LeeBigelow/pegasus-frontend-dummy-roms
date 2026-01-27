@@ -1,4 +1,4 @@
-# Dummy roms for all systems to test [Pegasus-Frontend](https://pegasus-frontend.org/) themes
+# Assign a dummy.txt rom to all systems for testing [Pegasus-Frontend](https://pegasus-frontend.org/) themes
 
 Sourced from: [ES-DE dummy files](https://gitlab.com/es-de/emulationstation-de/-/tree/master/tools/system-dirs-dummy-files)
 
