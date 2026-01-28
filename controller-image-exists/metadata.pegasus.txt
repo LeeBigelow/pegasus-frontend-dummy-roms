@@ -1,0 +1,270 @@
+collection: 3DO Interactive Multiplayer
+shortname: 3do
+file: dummy.txt
+
+collection: Coleco Adam
+shortname: adam
+file: dummy.txt
+
+collection: Commodore Amiga
+shortname: amiga
+file: dummy.txt
+
+collection: Commodore Amiga 1200
+shortname: amiga1200
+file: dummy.txt
+
+collection: Commodore Amiga 600
+shortname: amiga600
+file: dummy.txt
+
+collection: Apple II
+shortname: apple2
+file: dummy.txt
+
+collection: Arcade
+shortname: arcade
+file: dummy.txt
+
+collection: Atari 2600
+shortname: atari2600
+file: dummy.txt
+
+collection: Atari 7800 ProSystem
+shortname: atari7800
+file: dummy.txt
+
+
+
+collection: Commodore 64
+shortname: c64
+file: dummy.txt
+
+collection: Coleco ColecoVision
+shortname: colecovision
+file: dummy.txt
+
+collection: Doom
+shortname: doom
+file: dummy.txt
+
+collection: DOS (PC)
+shortname: dos
+file: dummy.txt
+
+collection: Sega Dreamcast
+shortname: dreamcast
+file: dummy.txt
+
+collection: Nintendo Family Computer
+shortname: famicom
+file: dummy.txt
+
+collection: FinalBurn Alpha
+shortname: fba
+file: dummy.txt
+
+collection: FinalBurn Neo
+shortname: fbneo
+file: dummy.txt
+
+collection: Nintendo Famicom Disk System
+shortname: fds
+file: dummy.txt
+
+collection: Nintendo GameCube
+shortname: gc
+file: dummy.txt
+
+collection: Sega Genesis
+shortname: genesis
+file: dummy.txt
+
+collection: AdvanceMAME
+shortname: mame-advmame
+file: dummy.txt
+
+collection: Multiple Arcade Machine Emulator
+shortname: mame
+file: dummy.txt
+
+collection: Sega Master System
+shortname: mastersystem
+file: dummy.txt
+
+collection: Sega Mega-CD
+shortname: megacd
+file: dummy.txt
+
+collection: Sega Mega-CD
+shortname: megacdjp
+file: dummy.txt
+
+collection: Sega Mega Drive
+shortname: megadrive
+file: dummy.txt
+
+collection: Sega Mega Drive
+shortname: megadrivejp
+file: dummy.txt
+
+collection: MSX
+shortname: msx
+file: dummy.txt
+
+collection: MSX1
+shortname: msx1
+file: dummy.txt
+
+collection: MSX2
+shortname: msx2
+file: dummy.txt
+
+collection: Nintendo 64
+shortname: n64
+file: dummy.txt
+
+collection: Nintendo 64DD
+shortname: n64dd
+file: dummy.txt
+
+collection: SNK Neo Geo
+shortname: neogeo
+file: dummy.txt
+
+collection: Nintendo Entertainment System
+shortname: nes
+file: dummy.txt
+
+collection: Magnavox Odyssey 2
+shortname: odyssey2
+file: dummy.txt
+
+collection: IBM PC
+shortname: pc
+file: dummy.txt
+
+collection: NEC PC Engine
+shortname: pcengine
+file: dummy.txt
+
+collection: NEC PC Engine CD
+shortname: pcenginecd
+file: dummy.txt
+
+collection: Sony PlayStation 2
+shortname: ps2
+file: dummy.txt
+
+collection: Sony PlayStation 3
+shortname: ps3
+file: dummy.txt
+
+collection: Sony PlayStation
+shortname: psx
+file: dummy.txt
+
+collection: Nintendo Satellaview
+shortname: satellaview
+file: dummy.txt
+
+collection: Sega Saturn
+shortname: saturn
+file: dummy.txt
+
+collection: Sega Saturn
+shortname: saturnjp
+file: dummy.txt
+
+collection: ScummVM Game Engine
+shortname: scummvm
+file: dummy.txt
+
+collection: Sega Mega Drive 32X
+shortname: sega32x
+file: dummy.txt
+
+collection: Sega Super 32X
+shortname: sega32xjp
+file: dummy.txt
+
+collection: Sega Genesis 32X
+shortname: sega32xna
+file: dummy.txt
+
+collection: Sega CD
+shortname: segacd
+file: dummy.txt
+
+collection: Nintendo SFC (Super Famicom)
+shortname: sfc
+file: dummy.txt
+
+collection: Sega SG-1000
+shortname: sg-1000
+file: dummy.txt
+
+collection: Nintendo SNES (Super Nintendo)
+shortname: snes
+file: dummy.txt
+
+collection: Nintendo SNES (Super Nintendo)
+shortname: snesna
+file: dummy.txt
+
+collection: Bandai SuFami Turbo
+shortname: sufami
+file: dummy.txt
+
+collection: NEC SuperGrafx
+shortname: supergrafx
+file: dummy.txt
+
+collection: NEC TurboGrafx-CD
+shortname: tg-cd
+file: dummy.txt
+
+collection: NEC TurboGrafx-16
+shortname: tg16
+file: dummy.txt
+
+collection: Uzebox Open Source Console
+shortname: uzebox
+file: dummy.txt
+
+collection: GCE Vectrex
+shortname: vectrex
+file: dummy.txt
+
+collection: Commodore VIC-20
+shortname: vic20
+file: dummy.txt
+
+collection: Philips Videopac G7000
+shortname: videopac
+file: dummy.txt
+
+collection: Nintendo Virtual Boy
+shortname: virtualboy
+file: dummy.txt
+
+collection: Nintendo Wii
+shortname: wii
+file: dummy.txt
+
+collection: Nintendo Wii U
+shortname: wiiu
+file: dummy.txt
+
+collection: Sharp X68000
+shortname: x68000
+file: dummy.txt
+
+collection: Microsoft Xbox
+shortname: xbox
+file: dummy.txt
+
+collection: Microsoft Xbox 360
+shortname: xbox360
+file: dummy.txt
+
