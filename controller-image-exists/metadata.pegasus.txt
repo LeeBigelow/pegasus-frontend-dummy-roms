@@ -266,3 +266,46 @@ collection: Microsoft Xbox 360
 shortname: xbox360
 file: dummy.txt
 
+game: Dummy
+file: dummy.txt
+description:
+    Dummy Description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Nam ut volutpat quam.  Integer luctus eros a tellus congue, ac posuere erat
+    semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam
+    et sem ac ex pharetra accumsan a sit amet nisi. Integer ipsum leo, tincidunt eu
+    congue non, porttitor vitae orci. Quisque fringilla mauris dignissim, eleifend
+    dolor varius, tempus quam. Fusce laoreet lorem ut eros fermentum luctus. Etiam
+    eget libero ligula.  Duis vehicula sapien quis convallis bibendum. Vestibulum
+    vel dui in orci dignissim fermentum sed sit amet lorem. Aenean facilisis dolor
+    mauris, a lacinia enim accumsan facilisis.
+
+    Suspendisse justo elit, bibendum et auctor vel, euismod id ipsum. Fusce
+    sollicitudin finibus sagittis. Pellentesque scelerisque ut enim a tristique.
+    Aenean sit amet lorem finibus, placerat augue et, elementum orci. In luctus
+    sapien quis justo rhoncus, a viverra enim feugiat. Ut rhoncus tempor tellus ac
+    consequat. Sed vulputate ultrices leo eget dapibus. Morbi eu lorem vel risus
+    malesuada dictum sit amet id elit. Maecenas eros purus, sagittis a pharetra ut,
+    consequat vel purus. Quisque nibh quam, rhoncus eget convallis ut, placerat nec
+    dui. Nam nec eros ac augue scelerisque iaculis. Praesent vel est velit. Integer
+    aliquam velit ac magna interdum egestas. Integer ut eleifend enim. Nulla eu
+    nunc id velit cursus tristique at nec elit.
+
+    Nullam sollicitudin mollis suscipit. Praesent augue nisl, vestibulum vitae sem
+    ac, feugiat luctus ex. Nulla nibh purus, vestibulum vitae turpis a, scelerisque
+    viverra nulla. Praesent sit amet lacus lorem. Nam vitae quam dignissim, finibus
+    felis ac, elementum mauris. Duis semper libero non sapien sodales, quis
+    faucibus tortor euismod. Duis lobortis neque metus, sed placerat nisi
+    vestibulum ut. Sed varius ultrices ipsum, sit amet aliquam mi placerat a. Class
+    aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+    himenaeos. Fusce ligula erat, lacinia sed sagittis quis, luctus sit amet enim.
+    Pellentesque pellentesque nisl ante, vitae rhoncus sapien ornare vel.
+release: 2026-01-01
+developer: Dummy Developer
+publisher: Dummy Publisher
+genre: Dummy Genre
+players: 1
+assets.screenshot: screenshot-white4x3.png
+assets.boxFront: boxfront-yellow3x4.png
+assets.marquee: marquee-green8x3.png
+assets.cartridge: cartridge-blue5x3.png
+assets.wheel: wheel-red2x1.png
